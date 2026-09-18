@@ -1,5 +1,5 @@
 {
-  "name": "order-api-taeyun",
+  "name": "taeyun-order-api",
   "version": "1.0.0",
   "private": true,
   "description": "주문·재고 API 과제 제출 (Express, TypeScript)",

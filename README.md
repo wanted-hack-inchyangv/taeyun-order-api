@@ -1,4 +1,4 @@
-# order-api-taeyun
+# taeyun-order-api
 
 주문·재고 API 과제 제출물입니다. Express 5 + TypeScript로 만들었고, 상품 재고 확인 → 주문 생성/조회/취소를 REST API로 제공합니다.
 
